@@ -10,7 +10,7 @@ Spencer Kruse:
     * perforce server
     * svn server
 
-Jack Osterman:
+Nathan Jonas:
 1. Review Artificial Intelligence techniques required for our application
 2. Research new AI techniques as well that can train against real-time players.
 
