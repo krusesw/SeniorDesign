@@ -1,5 +1,5 @@
 All team:
-1. Get unreal engine installed on each compatible device
+1. Install unreal engine on each compatible device
 2. Complete basic unreal training in order to get adapted to the technology
 3. Test basic commands that can be expanded into our application
 
@@ -9,6 +9,9 @@ Spencer Kruse:
     * unreals built in source control
     * perforce server
     * svn server
+3. Create cloud database to store game data
+4. Research parallelization of training architecture
+5. Create training architecture for game AI
 
 Nathan Jonas:
 1. Review Artificial Intelligence techniques required for our application
