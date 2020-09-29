@@ -1,11 +1,11 @@
 1. Get unreal engine installed on each compatible device
 2. Create our project and setup version control
 3. Project architecture options to explore:
-    a. unreals built in source control
-    b. perforce server
-    c. svn server
+    * unreals built in source control
+    * perforce server
+    * svn server
 3. Start creating assets
-    a. enemy character (our ai)
-    b. combat system (magic)
-    c. terrain (blank field with random boxes to start)
+    * enemy character (our ai)
+    * combat system (magic)
+    * terrain (blank field with random boxes to start)
   
