@@ -34,3 +34,8 @@
 #### Functioning Codebase
 * [All] Have a functioning codebase where we can manipulate assets, AI, and Unreal generics
 * [All] Develop the final idea of our project and the code architecture
+
+``` 
+At this point, we will create a new timeline that defines the final steps of work. 
+We can create this after our research and prep stages have been complete.
+```
