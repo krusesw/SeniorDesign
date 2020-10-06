@@ -17,6 +17,7 @@ Nathan Jonas:
 1. Review Artificial Intelligence techniques required for our application
 2. Research new AI techniques as well that can train against real-time players.
 3. Trial these AI techniques to find strengths and weaknesses of certain algorithms
+4. Review Unreal documentation related to AI
 
 Craig Gorney:
 1. Examine unreal engine documentation and find key objects that can be utilized
@@ -27,3 +28,4 @@ Jack Osterman:
     * enemy character (our ai)
     * combat system (magic)
     * terrain (blank field with random boxes to start)
+2. Review Unreal documentation related to applying assets to our project
