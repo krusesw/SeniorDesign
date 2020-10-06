@@ -24,6 +24,7 @@
 ## December
 #### Utilizing Unreal Codebase
 * [All] Test basic commands that can be expanded into our application
+* [All] Combine knowledge to create an initial game design (early december)
 * [Spencer] Research parallelization of training architecture
 * [Craig] Examine Unreal code architecture and begin development
 * [Nathan] Trial these AI techniques to find strengths and weaknesses of certain algorithms
