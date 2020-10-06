@@ -16,6 +16,7 @@ Spencer Kruse:
 Nathan Jonas:
 1. Review Artificial Intelligence techniques required for our application
 2. Research new AI techniques as well that can train against real-time players.
+3. Trial these AI techniques to find strengths and weaknesses of certain algorithms
 
 Craig Gorney:
 1. Examine unreal engine documentation and find key objects that can be utilized
