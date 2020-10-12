@@ -10,6 +10,13 @@ a game with AI on the unreal engine, so that has a large portion of this project
 figure out. Research is very important. 
 ```
 ### Professional/Technical Expertise
+```
+This project requires technical skills in the category of game development, artificial intelligence, model creation
+and manipulation, and software development. Combined as a team, we all have some experience within these specialized
+categories. At UC we have taken or are taking software development courses, an AI course, and developed models for 
+certain coruses. Our lack of knowledge within the unreal platform may lead to issues along the way, but the internet
+and documentation are very helpful and important learning tools.
+```
 ### Ethical/ Legal
 ### Security
 ### Social
