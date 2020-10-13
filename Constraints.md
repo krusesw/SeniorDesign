@@ -1,6 +1,10 @@
 ### Economic Cost
 ```
-This project will have several mandatory costs. Some of these costs will be one time. We will need to purchase software liscences for game engine and engine modules created by others (such as the predective AI module for Unreal). We will also need to pay for any game models we do not create ourselves. T
+This project will have several mandatory costs. Some of these costs will be one time. We will need to purchase 
+software liscences for game engine and engine modules created by others (such as the predective AI module for
+Unreal). We will also need to pay for any game models we do not create ourselves. Other mandatory costs include
+cloud databases / applications we will need to pay for on a monthly basis. We will attempt to get funding from the
+school for most of these costs, but some we may have to pay out of pocket.
 ```
 ### Time
 ### Scope
