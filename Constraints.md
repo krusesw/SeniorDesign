@@ -33,11 +33,21 @@ and documentation are very helpful and important learning tools.
 ```
 ### Ethical/ Legal
 ```
-Suprisingly we may have some constraints when it comes to legal costs. The reason for this is because when you design a video game, you need to provide models and textures that your game is going to use. Unfortunately no one on the team really has experience with rigging and modeling usable assets for our game so we may have to resort to purchasing them. Outside of that there shouldnt be too many legal constraints other than making sure we have the licenses for the models we use. Ethically speaking creating a video game could cause people to think thats not the best way to explore applications of AI, since theres a large demographic of adults that think video games are a waste of time and cause violence.  But we plan to combat the concern for violence by texturing and using models that are very innocent such as magic and tennis balls
+Suprisingly we may have some constraints when it comes to legal costs. The reason for this is because when you design a
+video game, you need to provide models and textures that your game is going to use. Unfortunately no one on the team 
+really has experience with rigging and modeling usable assets for our game so we may have to resort to purchasing them. 
+Outside of that there shouldnt be too many legal constraints other than making sure we have the licenses for the models 
+we use. Ethically speaking creating a video game could cause people to think thats not the best way to explore applications 
+of AI, since theres a large demographic of adults that think video games are a waste of time and cause violence.  But we 
+plan to combat the concern for violence by texturing and using models that are very innocent such as magic and tennis balls
 ```
 ### Security
 ```
-For this project security shouldnt actually be a large concern either. If we were to make our game compatible with co-op play, meaning it uses the network and it has access to the internet there would be a very large concern with making sure all of our information and the users information is secure when playing online. But we plan for our game to only be played locally with no possibility for online play. Other than this there isnt really a large concern for the security of our application. Since it will only be accessed by those with permission and since its only played locally
+For this project security shouldnt actually be a large concern either. If we were to make our game compatible with co-op 
+play, meaning it uses the network and it has access to the internet there would be a very large concern with making sure 
+all of our information and the users information is secure when playing online. But we plan for our game to only be 
+played locally with no possibility for online play. Other than this there isnt really a large concern for the security 
+of our application. Since it will only be accessed by those with permission and since its only played locally
 ```
 ### Social
 ### Environmental
