@@ -7,6 +7,14 @@ cloud databases / applications we will need to pay for on a monthly basis. We wi
 school for most of these costs, but some we may have to pay out of pocket.
 ```
 ### Time
+```
+Our team has a detailed plan for the timespan of this project. The main concern with time is not if we are able to
+get a game working with AI elements, but wrather how impressive we can make the game with a limited timeframe. Our
+plan prioritizes finishing a working product quickly, and expanding and improving upon that product for the remaining
+time. Building simpler systems first will allow us to learn how they work, and if the time allows we can improve these
+systems.
+
+```
 ### Scope
 ```
 Scope can be challenging to judge at the beginning of a project, yet a very important attribute towards success. 
