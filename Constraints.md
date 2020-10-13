@@ -13,7 +13,6 @@ get a game working with AI elements, but wrather how impressive we can make the 
 plan prioritizes finishing a working product quickly, and expanding and improving upon that product for the remaining
 time. Building simpler systems first will allow us to learn how they work, and if the time allows we can improve these
 systems.
-
 ```
 ### Scope
 ```
