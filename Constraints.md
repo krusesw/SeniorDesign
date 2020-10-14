@@ -9,7 +9,7 @@ school for most of these costs, but some we may have to pay out of pocket.
 ### Time
 ```
 Our team has a detailed plan for the timespan of this project. The main concern with time is not if we are able to
-get a game working with AI elements, but wrather how impressive we can make the game with a limited timeframe. Our
+get a game working with AI elements, but rather how impressive we can make the game with a limited timeframe. Our
 plan prioritizes finishing a working product quickly, and expanding and improving upon that product for the remaining
 time. Building simpler systems first will allow us to learn how they work, and if the time allows we can improve these
 systems.
@@ -51,13 +51,10 @@ of our application. Since it will only be accessed by those with permission and 
 ```
 ### Social
 ```
-This project will have no direct social concerns. Multiplayer may be implemented if time is available.
+While not a world changing project, video games are a huge part of the entertainment industry. In recent years 
+these hobbies have gone from niche to large communities where people feel they can express themselves. 
+While this really provides no "constraint" to the project, it's important to note trends in how users have reacted and
+become attached to games in recent years.
 ```
 ### Environmental
-```
-This project will have no environmental concerns.
-```
 ### Diversity and Cultural Impact
-```
-This project will have no diversity concerns. Culturally it may become of some revelance if it is released and becomes popular.
-```
