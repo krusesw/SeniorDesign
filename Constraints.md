@@ -50,5 +50,14 @@ played locally with no possibility for online play. Other than this there isnt r
 of our application. Since it will only be accessed by those with permission and since its only played locally
 ```
 ### Social
+```
+This project will have no direct social concerns. Multiplayer may be implemented if time is available.
+```
 ### Environmental
+```
+This project will have no environmental concerns.
+```
 ### Diversity and Cultural Impact
+```
+This project will have no diversity concerns. Culturally it may become of some revelance if it is released and becomes popular.
+```
