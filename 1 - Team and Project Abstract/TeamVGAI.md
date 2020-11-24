@@ -19,9 +19,8 @@ Spencer Kruse
 > Krusesw@mail.uc.edu
 
 
-
 ## Faculty Advisor
-Ali Minai
+> Ali Minai
 > minaiaa@ucmail.uc.edu
 
 
