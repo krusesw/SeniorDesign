@@ -23,5 +23,5 @@ For the project to beconsidered a success, it needs to be entertaining and the A
 If our game is entertaining, then players will return to the game to play again. This metric is called retention, and our exact measure of retention success is as follows:\If 50% ofplayersreturn to the game at least onceandplay at least 2 hours in the first weekof having the game, then the game will be considered entertaining.
 
 #### AI success
-The way we will determine success of our algorithm is that for every x games the player plays, then the Algorithm won a percentage equal to:
+The way we will determine success of our algorithm is that for every x games the player plays, then the Algorithm won a percentage equal to:\
 ![equation](http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B60%7D%7B1%2Be%5E%7B-0.1%28x-50%29%7D%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
