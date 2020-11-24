@@ -24,4 +24,4 @@ If our game is entertaining, then players will return to the game to play again.
 
 ### AI success
 The way we will determine success of our algorithm is that for every x games the player plays, then the Algorithm won a percentage equal to:
-<img src="https://latex.codecogs.com/gif.latex?O_t/?
+- <img src="https://latex.codecogs.com/gif.latex?O_t/>
