@@ -20,7 +20,8 @@ Ideally these will be the only algorithms we will need. It’s possible to have 
 For the project to beconsidered a success, it needs to be entertaining and the AI to be successful in defeating the player
 
 #### Entertainment metric
-If our game is entertaining, then players will return to the game to play again. This metric is called retention, and our exact measure of retention success is as follows:\If 50% ofplayersreturn to the game at least onceandplay at least 2 hours in the first weekof having the game, then the game will be considered entertaining.
+If our game is entertaining, then players will return to the game to play again. This metric is called retention, and our exact measure of retention success is as follows:\
+If 50% of players return to the game at least once and play at least 2 hours in the first week of having the game, then the game will be considered entertaining.
 
 #### AI success
 The way we will determine success of our algorithm is that for every x games the player plays, then the Algorithm won a percentage equal to:\
