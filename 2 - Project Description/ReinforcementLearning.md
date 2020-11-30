@@ -23,4 +23,10 @@ Actions provide methods for the agent to interact and alter the environment, the
 We will use assessment to find which actions minimize loss and increase agent benefits.
 
 ### Rewards
-The reward function describes Agent behavior. Our rewards will be defined by how easily our agent will defeat a player. Using movement and combat data, the rewards will be ever-changing from user data. The rewards can then be considered continuous and differentiable. 
+The reward function describes agent behavior. Our rewards will be defined by how easily our agent will defeat a player. Using movement and combat data, the rewards will be ever-changing from user data. The rewards can then be considered continuous and differentiable. 
+
+## Articles
+https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/
+https://www.guru99.com/reinforcement-learning-tutorial.html
+https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
+https://www.researchgate.net/publication/224206784_Reinforcement_Learning_in_First_Person_Shooter_Games
