@@ -29,4 +29,4 @@ The reward function describes agent behavior. Our rewards will be defined by how
 https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/ \
 https://www.guru99.com/reinforcement-learning-tutorial.html \
 https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses \
-https://www.researchgate.net/publication/224206784_Reinforcement_Learning_in_First_Person_Shooter_Games \
+https://www.researchgate.net/publication/224206784_Reinforcement_Learning_in_First_Person_Shooter_Games 
