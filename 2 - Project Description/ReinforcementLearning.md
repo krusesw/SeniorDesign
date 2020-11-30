@@ -18,5 +18,9 @@ decisions on the data accumulated.
 Arena based game.
 
 ### Action
+Actions provide methods for the agent to interact and alter the environment, therefore transferring between states. In our instance, rewards are given by movement in arena, and landing 'shots', or causing damage, on the user. 
+
+We will use assessment to find which actions minimize loss and increase agent benefits.
 
 ### Rewards
+The reward function describes Agent behavior. Our rewards will be defined by how easily our agent will defeat a player. Using movement and combat data, the rewards will be ever-changing from user data. The rewards can then be considered continuous and differentiable. 
