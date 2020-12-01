@@ -1,4 +1,4 @@
-# Spencer Kruse Semester 1 Time Spent:
+# Spencer Kruse | Semester 1 Time Spent:
 
 ## September
 I spent about 7 hours on this project in September.
