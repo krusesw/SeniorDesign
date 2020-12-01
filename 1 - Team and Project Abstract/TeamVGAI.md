@@ -29,5 +29,5 @@ Our plan is to combine our passions for gaming and artificial intelligence to cr
 We plan to use unreal engine to develop a new game from scratch, incorporating AI in our game. Ideas for AI  controled aspects are: enemies, balancing, and level generation. From this game we will be able to determine feasibility of self artificially intelligent systems in gaming.
 
 ## Project Goal
-Our goal is to create a single level game in which the player is pitted to fight against an AI controlled opponent. The game will be a FPS (First-Person Shooter).
+Our goal is to create a single level game in which the player is pitted to fight against an AI controlled opponent. The game will be a FPS (First-Person Shooter). Our goal is to have the AI evolve to eventually be just as good as it's opponent. Specific metrics on this are outlined in the Project Description.
 
