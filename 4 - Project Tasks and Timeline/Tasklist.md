@@ -5,14 +5,15 @@ All team:
 4. Define our codebase layout, and add all assets to our code
 
 Spencer Kruse:
-1. Create our project and setup version control
-2. Create proof of concepts for the following project architecture options:
+1. Create our project and setup version control - Completed
+2. Create proof of concepts for the following project architecture options: - Completed using GIT LFS
     * unreals built in source control
     * perforce server
     * svn server
-3. Create cloud database to store game data
-4. Research parallelization of training architecture
-5. Create training architecture for game AI
+3. Create cloud database to store game data - Completed but down due to costs
+4. Research parallelization of training architecture - Completed
+5. Create alpha arena level with unreal editor - In Progress, needs texturing
+6. Create training architecture for game AI - In Progress
 
 Nathan Jonas:
 1. Review Artificial Intelligence techniques required for our application
@@ -33,3 +34,7 @@ Jack Osterman:
     * terrain (blank field with random boxes to start)
 2. Review Unreal documentation related to applying assets to our project
 3. Display assets within unreal engine, and make these assets useful within our project
+
+Unassigned:
+* Find the best modules for back propogation and reinforcement based learning from software trials
+* Set up cloud services for scoreboard and user data metrics

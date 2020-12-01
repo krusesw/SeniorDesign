@@ -56,5 +56,4 @@ these hobbies have gone from niche to large communities where people feel they c
 While this really provides no "constraint" to the project, it's important to note trends in how users have reacted and
 become attached to games in recent years.
 ```
-### Environmental
-### Diversity and Cultural Impact
+
