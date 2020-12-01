@@ -44,3 +44,7 @@ I spent about 6 hours on this project in December.
 #### Tasks Completed:
 1. Updated outdated documentation
 2. Re-recorded presentation with updated info
+
+#### Tasks Planned:
+1. Implement the player data recorder
+2. Implement reinforcement based learning from player data
