@@ -8,3 +8,10 @@ These are informal tasks we have set to describe how the game will function.
 * As a **Player**, I want **the AI training to be as unintrusive as possible** such that **the gameplay is unaffected**.
 * As a **Player**, I want **to be able to run the game on average commercial hardware** such that **the game is accessible**.
 
+## From the Perspective of the Developer on Development Cycle
+* As a **Developer**, I want **to have a common development setup** so that **our team does not have machine specific bugs**.
+* As a **Developer**, I want **to have weekly meetings** so that **our team stays on track of work**.
+
+## From the Perspective of a User on User Privacy
+* As a **User**, I want **to be aware that the game is recording my inputs** so that **I can be informed of potential user privacy risks**.
+* As a **User**, I want **my data stored in any online database to be secured** so that **I can be protected from user privacy risks**.
