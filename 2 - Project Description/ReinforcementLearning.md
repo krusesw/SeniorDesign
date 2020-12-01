@@ -1,6 +1,6 @@
 # Reinforcement Learning (RL)
 
-**This will be used over back propagation if time permits**
+**This will be used over back propogation if time permits**
 
 We will be implementing reinforcement learning when designing our first person shooter video game. Reinforcement learning 
 is a commonly used machine learning technique. We have learned implementation with classic style games such as chess, tic-tac-toe,
