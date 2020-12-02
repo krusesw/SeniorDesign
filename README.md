@@ -11,7 +11,7 @@ We will combine our passions for gaming and artificial intelligence to create an
 [Self-Assessment Essays](https://github.com/krusesw/SeniorDesign/tree/master/7%20-%20Self%20Assessment%20Essays)\
 [Professional Biographies](https://github.com/krusesw/SeniorDesign/tree/master/8%20-%20Professional%20Biographies)\
 [Budget](https://github.com/krusesw/SeniorDesign/tree/master/9%20-%20Budget)\
-[Appendix](https://github.com/krusesw/SeniorDesign/tree/master/10%20-%20Appendix)\
+[Appendix](https://github.com/krusesw/SeniorDesign/tree/master/10%20-%20Appendix)
 
 ## Members
 Nathan Jonas\
