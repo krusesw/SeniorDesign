@@ -3,9 +3,9 @@
 ### Unreal Engine (15)
 * Read through Unreal Engine documentation and initialized a beginner project
 * Discovered MaRLEnE
-** A powerful reinforcement learning libarary that is supported by Tensorflow
-** https://github.com/ducandu/MaRLEnE
-** Walked through a few of their given examples to build expectations for our project requirements
+- A powerful reinforcement learning libarary that is supported by Tensorflow
+- https://github.com/ducandu/MaRLEnE
+- Walked through a few of their given examples to build expectations for our project requirements
 
 ### Reinforcement Learning (15)
 * Researched RL by reading over 5 academic papers on the subject
