@@ -4,7 +4,7 @@ Welcome to VGAI user manual. To get started, or refresh your knowledge; please s
 
 
 ## Pages
-[1.0 Description of Project/Game](https://github.com/krusesw/SeniorDesign/wiki/1---Team-and-Project-Abstract)\
+[1.0 Description of Project/Game](https://github.com/krusesw/SeniorDesign/blob/master/13%20-%20User%20Documentation%20Game%20Manual/Manual%20Pages/manualDescription.md)\
 [1.1 Getting Started / Installation](https://github.com/krusesw/SeniorDesign/wiki/4---Project-Tasks-and-Timeline)\
 [2.0 Gameplay](https://github.com/krusesw/SeniorDesign/wiki/2---Project-Description)\
 [2.1 Controls Diagram](https://github.com/krusesw/SeniorDesign/wiki/2---Project-Description)\
