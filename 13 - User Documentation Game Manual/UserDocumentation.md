@@ -12,8 +12,7 @@ Welcome to VGAI user manual. To get started, or refresh your knowledge; please s
 [3.0 Objectives](https://github.com/krusesw/SeniorDesign/blob/master/13%20-%20User%20Documentation%20Game%20Manual/Manual%20Pages/manualObjectives.md)\
 [3.1 AI Controlled Enemy](https://github.com/krusesw/SeniorDesign/blob/master/13%20-%20User%20Documentation%20Game%20Manual/Manual%20Pages/AIControlledEnemy.md)\
 [4.0 World](https://github.com/krusesw/SeniorDesign/blob/master/13%20-%20User%20Documentation%20Game%20Manual/Manual%20Pages/manualWorld.md)\
-[4.1 Map Floor 1](https://github.com/krusesw/SeniorDesign/wiki/6---Powerpoint-Presentations)\
-[4.1 Map Floor 2](https://github.com/krusesw/SeniorDesign/wiki/6---Powerpoint-Presentations)\
-[5.0 Strategy and Tips](https://github.com/krusesw/SeniorDesign/wiki/7---Self-Assessment-Essays)\
+[4.1 Map](https://github.com/krusesw/SeniorDesign/blob/master/13%20-%20User%20Documentation%20Game%20Manual/Manual%20Pages/manualMap.md)\
+[5.0 Strategy and Tips](https://github.com/krusesw/SeniorDesign/blob/master/13%20-%20User%20Documentation%20Game%20Manual/Manual%20Pages/manualStrategy.md)\
 
  
