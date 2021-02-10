@@ -1,6 +1,6 @@
 # VGAI User Manual 
 
-Welcome to the VGAI user manual. To get started, or refresh your knowledge; please select a the appropriate link below.
+Welcome to the VGAI user manual. To get started, or refresh your knowledge; please select the appropriate link below.
 
 
 ## Pages
