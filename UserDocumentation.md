@@ -1,12 +1,14 @@
 ### Description 
 
+```
 VGAI is a project that seeks to use reinforcement learning to enhance the gameplay of a first-person shooter video game. 
 
 The project consists of a first-person shooter demo with an enemy character controlled by a reinforcement learning artificial intelligence. 
-
+```
  
 
 ### Getting Started/ Program Installation 
+```
 
 Download the executable file from our GitHub page https://github.com/krusesw/SeniorDesign VGAI.exe (releasing end of March 2021) 
 
@@ -15,17 +17,18 @@ Begin by double-clicking the downloaded file
 The executable may require you to download packages that are missing from your system for the game to work correctly. Click yes on these prompts to download and continue. 
 
 A welcome screen and game menu will appear with an option to begin playing. 
-
+```
  
 
 ### Gameplay 
+```
 
 The game functions similarly to other first-person shooters. The goal is to move around the map, and defeat the enemy character using your weapon, and dodge the enemy attacks. 
 
 Every time you defeat the enemy, a new enemy will spawn in marking the start of a new round. Each new enemy will have updated play patterns based on the reinforcement learning AI. 
 
 The rounds go infinitely high. 
-
+```
 
 ### Controls 
 
@@ -81,25 +84,25 @@ The user interface contains two meters. One for health and one for weapon charge
 
 * Health Meter 
 
-** The health meter appears in the bottom left-hand side of the screen.  
+- The health meter appears in the bottom left-hand side of the screen.  
 
-** It displays a bar with five segments, representing the player’s five hitpoints.  
+- It displays a bar with five segments, representing the player’s five hitpoints.  
 
-** Each time the player is hit with a projectile, their health will drop by 1 segment. 
+- Each time the player is hit with a projectile, their health will drop by 1 segment. 
 
-** When this meter reaches 0, the player loses the game. 
+- When this meter reaches 0, the player loses the game. 
 
-** The health meter resets to full at the start of each round. 
+- The health meter resets to full at the start of each round. 
 
 * Weapon Charge Meter 
 
-** The weapon charge meter appears in the bottom righthand side of the screen.  
+- The weapon charge meter appears in the bottom righthand side of the screen.  
 
-** It displays a single bar that fills over the course of two seconds.  
+- It displays a single bar that fills over the course of two seconds.  
 
-** Once the meter is filled, the players weapon is ready to fire.  
+- Once the meter is filled, the players weapon is ready to fire.  
 
-** Once the player fires the weapon the meter will empty, and the weapon cannot be fired until the meter is full again. 
+- Once the player fires the weapon the meter will empty, and the weapon cannot be fired until the meter is full again. 
 
 
 ### Objectives 
