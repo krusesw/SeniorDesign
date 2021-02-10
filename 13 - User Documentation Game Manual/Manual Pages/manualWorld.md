@@ -4,6 +4,6 @@
 
 * The world contains a manor surrounded by light woodlands. 
 
-* The manor contains two floors (view Simplified Game Map for additional details). 
+* The manor contains two floors (view map floor pages for additional details). 
 
 * The surrounding mountains are unscalable. 
