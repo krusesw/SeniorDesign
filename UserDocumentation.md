@@ -3,6 +3,7 @@ VGAI is a project that seeks to use reinforcement learning to enhance the gamepl
 The project consists of a first-person shooter demo with an enemy character controlled by a reinforcement learning artificial intelligence.
 <br>
 <br>
+
 ### Getting Started/ Program Installation 
 1. Download the executable file from our GitHub page https://github.com/krusesw/SeniorDesign VGAI.exe (releasing end of March 2021) 
 2. Begin by double-clicking the downloaded file 
@@ -10,12 +11,14 @@ The project consists of a first-person shooter demo with an enemy character cont
 3. A welcome screen and game menu will appear with an option to begin playing. 
 <br>
 <br>
+
 ### Gameplay 
 The game functions similarly to other first-person shooters. The goal is to move around the map, and defeat the enemy character using your weapon, and dodge the enemy attacks. 
 Every time you defeat the enemy, a new enemy will spawn in marking the start of a new round. Each new enemy will have updated play patterns based on the reinforcement learning AI. 
 The rounds go infinitely high.
 <br>
 <br>
+
 ### Controls 
 The following section contains details on how to control the in-game player character.
 The actions listed can be done in parallel. For example: holding W and A will move the character forwards and to the right at the same time.
@@ -36,6 +39,7 @@ Move Mouse: Moves in game first person camera. Changes the direction the player 
 Left Mouse Button:Fire weapon
 <br>
 <br>
+
 ### UI 
 The user interface contains two meters. One for health and one for weapon charge. 
 
@@ -52,8 +56,8 @@ The user interface contains two meters. One for health and one for weapon charge
  * Once the player fires the weapon the meter will empty, and the weapon cannot be fired until the meter is full again.
 <br>
 <br>
-### Objectives 
 
+### Objectives
 This game focuses on defeating an enemy that will learn through reinforcement-based learning.  Defeat is defined as landing five total shots on the enemy. If you win, you will continue to infinite rounds until you are defeated. The reinforcement-based learning allows the enemy to accumulate knowledge over time. Therefore, each round becomes more challenging.  
 
 Your objective is to survive as many rounds as you can.
