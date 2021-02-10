@@ -8,6 +8,7 @@ The user interface contains two meters. One for health and one for weapon charge
  * When this meter reaches 0, the player loses the game. 
  * The health meter resets to full at the start of each round. 
  <br>
+ 
  #### Weapon Charge Meter 
  * The weapon charge meter appears in the bottom righthand side of the screen.  
  * It displays a single bar that fills over the course of two seconds.   
