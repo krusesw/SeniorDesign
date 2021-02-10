@@ -1,3 +1,5 @@
+![]
+
 ### Controls 
 The following section contains details on how to control the in-game player character.
 The actions listed can be done in parallel. For example: holding W and A will move the character forwards and to the right at the same time.
