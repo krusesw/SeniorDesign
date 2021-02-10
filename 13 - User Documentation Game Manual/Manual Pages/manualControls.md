@@ -1,4 +1,4 @@
-![]
+![](https://github.com/krusesw/SeniorDesign/blob/master/13%20-%20User%20Documentation%20Game%20Manual/Manual%20Pages/ControlDiagram.png)
 
 ### Controls 
 The following section contains details on how to control the in-game player character.
