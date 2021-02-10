@@ -5,4 +5,4 @@ The project consists of a first-person shooter demo with an enemy character cont
 <br>
 
 #### Disclaimer
-VGAI requires recording player inputs for the AI to be able to learn. By playing you are agreeing to logging inputs on your W, A, S, D, Spacebar, and Mouse while the game is operating.
+VGAI requires recording player inputs for the AI to be able to learn. By playing you are agreeing to logging inputs on your W, A, S, D, and Spacebar keys, as well as your mouse movement and clicks while the game is operating.
