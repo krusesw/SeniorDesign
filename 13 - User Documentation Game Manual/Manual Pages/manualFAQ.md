@@ -21,3 +21,5 @@
 * How did you implement reinforcement learning in UE4?
 > Using the mindmaker plugin.
 
+* I have a question not answered or covered by the manual.
+> Email Krusesw@mail.uc.edu, I will try to respond within 2 days and update the user documentation.
